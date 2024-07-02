@@ -1,0 +1,14 @@
+Feedrate string: 346t
+Status: 
+input file name: C:/Users/Sayli Tambe/OneDrive/Desktop/tyre side final 14.DXF
+Output run file: D:/Interface/data/sayli.gcode
+Q-Setting: rgtyj
+Z Approch: 
+Drawing width: 30.15 cm
+Drawing length: 15.49 cm
+Z Depth: 
+Comments: 
+Passes: 
+Depth Per Pass: 
+Pen On String 2: 
+Pen Off String : 
